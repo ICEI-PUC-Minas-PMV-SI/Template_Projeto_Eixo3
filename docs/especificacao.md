@@ -45,7 +45,7 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 | RNF3 |	Segurança	O produto deve restringir o acesso por meio de senhas individuais para o usuário. |
 | ... |	... |	... |
 
-### 3.3.2 Usuários 
+### 3.3.3 Usuários 
 
 | Ator | Descrição |
 |--------------------|------------------------------------|
