@@ -29,7 +29,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 | ETAPA 2         |[Especificação de Requisitos de Software](docs/especificacao.md) |
 | ETAPA 3         |[Design de Interação](docs/design.md) |
 | ETAPA 4        |[Testes de Software](docs/testes.md) |
-| ETAPA 5         | [Apresentação](apresentacao/README.md) |
+| ETAPA 5         | [Apresentação](docs/apresentacao.md) |
 
 
 # Código
