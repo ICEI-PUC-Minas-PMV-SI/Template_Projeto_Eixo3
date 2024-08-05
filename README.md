@@ -38,4 +38,4 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="docs/apresentacao.md"> Apresentação da solução</a></li>
