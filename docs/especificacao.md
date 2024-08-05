@@ -36,7 +36,7 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 | RF3	| Gerenciar Matrícula |	Processamento de Inclusão, Alteração, Exclusão e Consulta de Matrículas de alunos em Cursos de Aperfeiçoamento |
 | ... |	...	| ... |
 
-### 3.3.1 Requisitos Não Funcionais
+### 3.3.2 Requisitos Não Funcionais
 
 | Código | Requisito Não Funcional (Restrição) |
 |--------------------|------------------------------------|
